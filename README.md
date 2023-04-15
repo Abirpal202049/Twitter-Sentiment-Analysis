@@ -12,7 +12,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Now in order to run te backend we need to do 2 things:
+## Now in order to run te backend we need to do 2 things:
 - To generate the `.pickel` file from the ML model
 - To generate the ML API's using `FastAPI`
 
