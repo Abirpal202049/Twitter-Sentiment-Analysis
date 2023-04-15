@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   env: {
-    BASE_URL_DEV: 'http://65.0.127.227/',
+    BASE_URL_DEV: 'http://127.0.0.1:8000/',
   },
 }
 
