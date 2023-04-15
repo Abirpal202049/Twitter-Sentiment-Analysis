@@ -1,4 +1,4 @@
-## Getting Started with the Backend of the Project
+# Getting Started with the Backend of the Project
 
 Here we are building a backend which is integrated to our ML Model which we have created in the `Pickel File Generation` folder
 
