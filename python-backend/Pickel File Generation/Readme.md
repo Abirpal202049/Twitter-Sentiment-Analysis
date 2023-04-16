@@ -14,20 +14,15 @@ Here we are building a ML Model to predict the sentiments of a sentences wheathe
 Setting up the virtual enviroment using `venv` , activating the enviroment and linking it with the jupyter notebook to built our ML Model easily from `jupyter notebook` or `jupyter lab`
 
 ```bash
-# Creating a virtual enviroment using `venv`
-python -m venv myenvtwitter
 
-# Activating the enviroment
-myenvtwitter\Scripts\activate
-
-# Installing `ipykernel` to link our envviroment with the jupyter notebook
-pip install ipykernel
+# Installing all the dependencies
+pip install -r requirements.txt
 
 # To list down all the packages
 pip list
 
 # Linking the virtual enviroment with our jupyter notebook
-python -m ipykernel install --name=myenvtwitter
+python -m ipykernel install --name=sentimentanalysis
 
 # To list down all the enviroment in jupyter notebook
 jupyter kernelspec list
