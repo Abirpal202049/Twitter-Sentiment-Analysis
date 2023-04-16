@@ -2,7 +2,7 @@
 
 Here we are building a ML Model to predict the sentiments of a sentences wheather it is positive or negative 
 
-### For building the model we are using this algorithum:
+### For building the model we are using this algorithm:
 -   Regression
     - Linear Regression 
 - Classification
